@@ -15,6 +15,7 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+encrypted_notebook.iml
 
 # VS Code
 .vscode/
